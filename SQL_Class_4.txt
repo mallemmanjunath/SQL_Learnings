@@ -9,7 +9,7 @@ create table orders_data
  order_id int,
  country varchar(50),
  state varchar(50)
-);
+)
 
 insert into orders_data values(1,100,'USA','Seattle');
 insert into orders_data values(2,101,'INDIA','UP');
